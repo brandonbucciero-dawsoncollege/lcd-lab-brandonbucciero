@@ -58,7 +58,7 @@ void reactionGame() {
   lcd.print("Your time:");
   lcd.setCursor(0, 1);         // Move to the second row
   lcd.print(reactionTime);     // Show the reaction time in milliseconds
-  lcd.print(" ms");
+  lcd.print(" milliseconds");
 
   // Print the same reaction time to the Serial Monitor for debugging or analysis
   Serial.print("Reaction Time: ");
