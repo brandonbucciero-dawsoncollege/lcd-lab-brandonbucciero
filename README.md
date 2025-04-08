@@ -14,6 +14,7 @@ Connect the LCD module:
 - RW to GND
 - A (Backlight +) to 5V
 - K (Backlight -) to GND
+
 Connect the RGB LED (Common Cathode):
 - "S" side to Digital Pin 3
 - "-" side to GND
